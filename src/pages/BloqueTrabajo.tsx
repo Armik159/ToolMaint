@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import bloqueTrabajoStore from "../store/bloqueTrabajo";
 import { dataBloqueTrabajo, dataDetalle, dataMaquinas } from "../constants/tableData";
 import { Card, CardContent, CardHeader } from "../components/ui/card";

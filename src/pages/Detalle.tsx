@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from "../components/ui/breadcrumb";
 import { Card, CardContent, CardHeader } from "../components/ui/card";
 import useDetalleStore from "../store/detalle";
@@ -11,7 +11,6 @@ import { Dialog, DialogTrigger } from "../components/ui/dialog";
 
 function Detalle() {
   const detalleFromLocalStorage = localStorage.getItem("detalle");
-  
 
   const { detalle, setDetalle } = useDetalleStore();
   const { maquina } = bloqueTrabajoStore();
