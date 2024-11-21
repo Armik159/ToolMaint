@@ -1,0 +1,863 @@
+    {
+    Descripción: “Llave mixta 7 mm”,
+    Nro de parte: “PT-001”,
+    Nro de Serie: “SR-01001”,
+    },
+    {
+    Descripción: “Llave mixta 8 mm”,
+    Nro de parte: “PT-002”,
+    Nro de Serie': “SR-01002”,
+    },
+    {
+    Descripción: 'Llave mixta 9 mm', 
+    Nro de parte: 'PT-003',
+    Nro de Serie': 'SR-01003'
+    }
+    {
+    Descripción: 'Llave mixta 10 mm'
+    Nro de parte: 'PT-004'
+    Nro de Serie: 'SR-01004'
+    }
+    {
+    Descripción: 'Llave mixta 11 mm'
+    Nro de parte: 'PT-005'
+    Nro de Serie: 'SR-01005'
+    } 
+    {
+    Descripción: 'Llave mixta 12 mm'
+    Nro de parte: 'PT-006'
+    Nro de Serie: 'SR-01006'
+    }
+    {
+    Descripción: 'Llave mixta 13 mm'
+    Nro de parte: 'PT-007' 
+    Nro de Serie: 'SR-01007'
+    }
+    {
+    Descripción: 'Llave mixta 14 mm'
+    Nro de parte: 'PT-008'
+    Nro de Serie: 'SR-01008'
+    }
+    {
+    Descripción: 'Llave mixta 15 mm'
+    Nro de parte: 'PT-009'
+    Nro de Serie': 'SR-01009'
+    }
+    {
+    Descripción: 'Llave mixta 16 mm'
+    Nro de parte: 'PT-010'
+    Nro de Serie: 'SR-01010'
+    }
+    {
+    Descripción: 'Llave mixta 17 mm'
+    Nro de parte: 'PT-011'
+    Nro de Serie: 'SR-01011'
+    }
+    {
+    Descripción: Llave mixta 18 mm'
+    Nro de parte: 'PT-012'
+    Nro de Serie: 'SR-01012'
+    }
+    {
+    Descripción: 'Llave mixta 19 mm'
+    Nro de parte: 'PT-013'
+    Nro de Serie: 'SR-01013'
+    }
+    {
+    Descripción: 'Llave mixta 20 mm'
+    Nro de parte: 'PT-014'
+    Nro de Serie: 'SR-01014'
+    }
+    {
+    Descripción: 'Llave mixta 21 mm'
+    Nro de parte: 'PT-015'
+    Nro de Serie: 'SR-01015'
+    }
+    {
+    Descripción: 'Llave mixta 22 mm'
+    Nro de parte: 'PT-016'
+    Nro de Serie: 'SR-01016'
+    }
+    {
+    Descripción: 'Llave mixta 23 mm'
+    Nro de parte: 'PT-017'
+    Nro de Serie: 'SR-01017'
+    }
+    {
+    Descripción: 'Llave mixta 24 mm'
+    Nro de parte: 'PT-018'
+    Nro de Serie: 'SR-01018'
+    }
+    {
+    Descripción: 'Llave mixta 25 mm'
+    Nro de parte: 'PT-019'
+    Nro de Serie: 'SR-01019'
+    }
+    {
+    Descripción: 'Llave mixta 26 mm'
+    Nro de parte: 'PT-020'
+    Nro de Serie: 'SR-01020'
+    }
+    {
+    Descripción: 'Llave mixta 27 mm'
+    Nro de parte: 'PT-021'
+    Nro de Serie: 'SR-01021'
+    }
+    {
+    Descripción: 'Llave mixta 28 mm'
+    Nro de parte: 'PT-022'
+    Nro de Serie: 'SR-01022'
+    }
+    {
+    Descripción: 'Llave mixta 29 mm'
+    Nro de parte: 'PT-023'
+    Nro de Serie: 'SR-01023'
+    }
+    {
+    Descripción: 'Llave mixta 30 mm'
+    Nro de parte: 'PT-024'
+    Nro de Serie: 'SR-01024'
+    }
+    {
+    Descripción: 'Llave mixta 31 mm'
+    Nro de parte: 'PT-025'
+    Nro de Serie: 'SR-01025'
+    }
+    {
+    Descripción: 'Llave mixta 32 mm'
+    Nro de parte: 'PT-026'
+    Nro de Serie': 'SR-01026'
+    }
+    {
+    Descripción: 'Llave mixta 33 mm'
+    Nro de parte: 'PT-027'
+    Nro de Serie: 'SR-01027'
+    }
+    {
+    Descripción: 'Llave mixta 34 mm'
+    Nro de parte: 'PT-028'
+    Nro de Serie: 'SR-01028'
+    }
+    {
+    Descripción: 'Llave mixta 35 mm'
+    Nro de parte: 'PT-029'
+    Nro de Serie: 'SR-01029'
+    }
+    {
+    Descripción: 'Llave mixta 36 mm'
+    Nro de parte: 'PT-030'
+    Nro de Serie: 'SR-01030'
+    }
+    {
+    Descripción: 'Llave mixta 37 mm'
+    Nro de parte: 'PT-031'
+    Nro de Serie: 'SR-01031'
+    }
+    {
+    Descripción: 'Llave mixta 38 mm'
+    Nro de parte: 'PT-032'
+    Nro de Serie: 'SR-01032'
+    }
+    {
+    Descripción: 'Llave mixta 39 mm'
+    Nro de parte: 'PT-033'
+    Nro de Serie: 'SR-01033'
+    }
+    {
+    Descripción: 'Llave mixta 40 mm'
+    Nro de parte: 'PT-034'
+    Nro de Serie: 'SR-01034'
+    }
+    {
+    Descripción: 'Llave mixta 41 mm'
+    Nro de parte: 'PT-035'
+    Nro de Serie: 'SR-01035'
+    }
+    {
+    Descripción: 'Dado 5 mm hexagonal'
+    Nro de parte: 'PT-036'
+    Nro de Serie: 'SR-01036'
+    } 
+    {
+    Descripción: 'Dado 6 mm hexagonal'
+    Nro de parte: 'PT-037'
+    Nro de Serie: 'SR-01037'
+    }
+    {
+    Descripción: 'Dado 7 mm hexagonal'
+    Nro de parte: 'PT-038'
+    Nro de Serie: 'SR-01038'
+    }
+    {
+    Descripción: 'Dado 8 mm hexagonal'
+    Nro de parte: 'PT-039'
+    Nro de Serie: 'SR-01039'
+    }
+    {
+    Descripción: Dado 9 mm hexagonal'
+    Nro de parte:'PT-040'
+    Nro de Serie: 'SR-01040'
+    }
+    {
+    Descripción: 'Dado 10 mm hexagonal'
+    Nro de parte: 'PT-041'
+    Nro de Serie: 'SR-01041'
+    }
+    {
+    Descripción: 'Dado 11 mm hexagonal'
+    Nro de parte: 'PT-042'
+    Nro de Serie: 'SR-01042'
+    }
+    {
+    Descripción: 'Dado 12 mm hexagonal'
+    Nro de parte: 'PT-043'
+    Nro de Serie: 'SR-01043'
+    }
+    {
+    Descripción: 'Dado 13 mm hexagonal'
+    Nro de parte: 'PT-044'
+    Nro de Serie: 'SR-01044'
+    }
+    {
+    Descripción: 'Dado 14 mm hexagonal'
+    Nro de parte: 'PT-045'
+    Nro de Serie: 'SR-01045'
+    }
+    {
+    Descripción: 'Dado 15 mm hexagonal'
+    Nro de parte: 'PT-046'
+    Nro de Serie: 'SR-01046'
+    }
+    {
+    Descripción: 'Dado 16 mm hexagonal'
+    Nro de parte: 'PT-047'
+    Nro de Serie: 'SR-01047'
+    }
+    {
+    Descripción: 'Dado 17 mm hexagonal'
+    Nro de parte: 'PT-048'
+    Nro de Serie: 'SR-01048'
+    }
+    {
+    Descripción: 'Dado 18 mm hexagonal'
+    Nro de parte: 'PT-049'
+    Nro de Serie: 'SR-01049'
+    }
+    {
+    Descripción: 'Dado 19 mm hexagonal'
+    Nro de parte: 'PT-050'
+    Nro de Serie: 'SR-01050'
+    }
+    {
+    Descripción: 'Dado 20 mm hexagonal'
+    Nro de parte: 'PT-051'
+    Nro de Serie: 'SR-01051'
+    }
+    {
+    Descripción: 'Dado 21 mm hexagonal'
+    Nro de parte: 'PT-052'
+    Nro de Serie: 'SR-01052'
+    }
+    {
+    Descripción: 'Dado 22 mm hexagonal'
+    Nro de parte: 'PT-053'
+    Nro de Serie: 'SR-01053'
+    } 
+    {
+    Descripción: 'Dado 23 mm hexagonal'
+    Nro de parte: 'PT-054'
+    Nro de Serie: 'SR-01054'
+    }
+    {
+    Descripción: 'Dado 24 mm hexagonal'
+    Nro de parte: 'PT-055'
+    Nro de Serie: 'SR-01055'
+    }
+    {
+    Descripción: 'Dado 25 mm hexagonal'
+    Nro de parte: 'PT-056'
+    Nro de Serie: 'SR-01056'
+    }
+    {
+    Descripción: 'Dado 26 mm hexagonal'
+    Nro de parte: 'PT-057'
+    Nro de Serie: 'SR-01057'
+    }
+    {
+    Descripción: 'Dado 27 mm hexagonal'
+    Nro de parte: 'PT-058'
+    Nro de Serie: 'SR-01058'
+    } 
+    {
+    Descripción: 'Dado 28 mm hexagonal'
+    Nro de parte: 'PT-059'
+    Nro de Serie: 'SR-01059'
+    }
+    {
+    Descripción: 'Dado 29 mm hexagonal'
+    Nro de parte: 'PT-060'
+    Nro de Serie: 'SR-01060'
+    }
+    {
+    Descripción: 'Dado 30 mm hexagonal'
+    Nro de parte: 'PT-061'
+    Nro de Serie: 'SR-01061'
+    }
+    {
+    Descripción: 'Dado 31 mm hexagonal'
+    Nro de parte: 'PT-062'
+    Nro de Serie: 'SR-01062'
+    }
+    {
+    Descripción: 'Dado 32 mm hexagonal'
+    Nro de parte: 'PT-200'
+    Nro de Serie: 'SR-01063'
+    }
+    {
+    Descripción: 'Dado 5 mm hexagonal (estriado)'
+    Nro de parte: 'PT-201'
+    Nro de Serie: 'SR-00005'
+    }
+    {
+    Descripción: 'Dado 6 mm hexagonal (estriado)'
+    Nro de parte: 'PT-202'
+    Nro de Serie: 'SR-00006'
+    }
+    {
+    Descripción: 'Dado 7 mm hexagonal (estriado)'
+    Nro de parte: 'PT-203'
+    Nro de Serie: 'SR-00007'
+    }
+    {
+    Descripción: 'Dado 8 mm hexagonal (estriado)'
+    Nro de parte: 'PT-204'
+    Nro de Serie: 'SR-00008'
+    }
+    {
+    Descripción: 'Dado 9 mm hexagonal (estriado)'
+    Nro de parte: 'PT-205'
+    Nro de Serie: 'SR-00009'
+    }
+    {
+    Descripción: 'Dado 10 mm hexagonal (estriado)'
+    Nro de parte: 'PT-206'
+    Nro de Serie: 'SR-00010'
+    }
+    {
+    Descripción: 'Dado 11 mm hexagonal (estriado)'
+    Nro de parte: 'PT-207'
+    Nro de Serie: 'SR-00011'
+    }
+    {
+    Descripción: 'Dado 12 mm hexagonal (estriado)'
+    Nro de parte: 'PT-208'
+    Nro de Serie: 'SR-00012'
+    }
+    {
+    Descripción: 'Dado 14 mm hexagonal (estriado)'
+    Nro de parte: 'PT-209'
+    Nro de Serie: 'SR-00014'
+    }
+    {
+    Descripción: 'Dado 15 mm hexagonal (estriado)'
+    Nro de parte: 'PT-210'
+    Nro de Serie: 'SR-00015'
+    }
+    {
+    Descripción: 'Dado 16 mm hexagonal (estriado)'
+    Nro de parte: 'PT-211'
+    Nro de Serie: 'SR-00016'
+    }
+    {
+    Descripción: 'Dado 17 mm hexagonal (estriado)'
+    Nro de parte: 'PT-212'
+    Nro de Serie: 'SR-00017'
+    }
+    {
+    Descripción: 'Dado 19 mm hexagonal (estriado)'
+    Nro de parte: 'PT-213'
+    Nro de Serie: 'SR-00019'
+    }
+    {
+    Descripción: 'Dado 21 mm hexagonal (estriado)'
+    Nro de parte: 'PT-214'
+    Nro de Serie: 'SR-00021'
+    }
+    {
+    Descripción: 'Dado 22 mm hexagonal (estriado)'
+    Nro de parte: 'PT-215'
+    Nro de Serie: 'SR-00022'
+    }
+    {
+    Descripción: 'Dado 23 mm hexagonal (estriado)'
+    Nro de parte: 'PT-216'
+    Nro de Serie: 'SR-00023'
+    }
+    {
+    Descripción: 'Dado 24 mm hexagonal (estriado)'
+    Nro de parte: 'PT-217'
+    Nro de Serie: 'SR-00024'
+    }
+    {
+    Descripción: 'Dado 25 mm hexagonal (estriado)'
+    Nro de parte: 'PT-218'
+    Nro de Serie: 'SR-00025'
+    }
+    {
+    Descripción: 'Dado 27 mm hexagonal (estriado)'
+    Nro de parte: 'PT-219'
+    Nro de Serie: 'SR-00027'
+    }
+    {
+    Descripción: 'Dado 28 mm hexagonal (estriado)'
+    Nro de parte: 'PT-220'
+    Nro de Serie: 'SR-00028'
+    }
+    {
+    Descripción: 'Dado 29 mm hexagonal (estriado)'
+    Nro de parte: 'PT-221'
+    Nro de Serie: 'SR-00029'
+    }
+    {
+    Descripción: 'Dado 30 mm hexagonal (estriado)'
+    Nro de parte: 'PT-222'
+    Nro de Serie: 'SR-00030'
+    }
+    {
+    Descripción: 'Dado 31 mm hexagonal (estriado)'
+    Nro de parte: 'PT-223'
+    Nro de Serie: 'SR-00031'
+    }
+    {
+    Descripción: 'Dado 32 mm hexagonal (estriado)'
+    Nro de parte: 'PT-224'
+    Nro de Serie: 'SR-00032'
+    }
+    {
+    Descripción: 'Dado 10 mm hexagonal (impacto)'
+    Nro de parte: 'PT-300'
+    Nro de Serie: 'SR-10110'
+    }
+    {
+    Descripción: 'Dado 11 mm hexagonal (impacto)'
+    Nro de parte: 'PT-301'
+    Nro de Serie: 'SR-10111'
+    }
+    {
+    Descripción: 'Dado 12 mm hexagonal (impacto)'
+    Nro de parte: 'PT-302'
+    Nro de Serie: 'SR-10112'
+    }
+    {
+    Descripción: 'Dado 14 mm hexagonal (impacto)'
+    Nro de parte: 'PT-303'
+    Nro de Serie: 'SR-10114'
+    }
+    {
+    Descripción: 'Dado 15 mm hexagonal (impacto)'
+    Nro de parte: 'PT-304'
+    Nro de Serie: 'SR-10115'
+    }
+    {
+    Descripción: 'Dado 16 mm hexagonal (impacto)'
+    Nro de parte: 'PT-305'
+    Nro de Serie: 'SR-10116'
+    }
+    {
+    Descripción: 'Dado 17 mm hexagonal (impacto)'
+    Nro de parte: 'PT-306'
+    Nro de Serie: 'SR-10117'
+    }
+    {
+    Descripción: 'Dado 19 mm hexagonal (impacto)'
+    Nro de parte: 'PT-307'
+    Nro de Serie: 'SR-10119'
+    }
+    {
+    Descripción: 'Dado 21 mm hexagonal (impacto)'
+    Nro de parte: 'PT-308'
+    Nro de Serie: 'SR-10121'
+    }
+    {
+    Descripción: 'Dado 22 mm hexagonal (impacto)'
+    Nro de parte: 'PT-309'
+    Nro de Serie: 'SR-10122'
+    }
+    {
+    Descripción: 'Dado 23 mm hexagonal (impacto)'
+    Nro de parte: 'PT-310'
+    Nro de Serie: 'SR-10123'
+    }
+    {
+    Descripción: 'Dado 24 mm hexagonal (impacto)'
+    Nro de parte: 'PT-311'
+    Nro de Serie: 'SR-10124'
+    }
+    {
+    Descripción: 'Dado 25 mm hexagonal (impacto)'
+    Nro de parte: 'PT-312'
+    Nro de Serie: 'SR-10125'
+    }
+    {
+    Descripción: 'Dado 27 mm hexagonal (impacto)'
+    Nro de parte: 'PT-313'
+    Nro de Serie: 'SR-10127'
+    }
+    {
+    Descripción: 'Dado 28 mm hexagonal (impacto)'
+    Nro de parte: 'PT-314'
+    Nro de Serie: 'SR-10128'
+    }
+    {
+    Descripción: 'Dado 29 mm hexagonal (impacto)'
+    Nro de parte: 'PT-315'
+    Nro de Serie: 'SR-10129'
+    }
+    {
+    Descripción: 'Dado 30 mm hexagonal (impacto)'
+    Nro de parte: 'PT-316'
+    Nro de Serie: 'SR-10130'
+    }
+    {
+    Descripción: 'Dado 31 mm hexagonal (impacto)'
+    Nro de parte: 'PT-317'
+    Nro de Serie: 'SR-10131'
+    }
+    {
+    Descripción: 'Dado 32 mm hexagonal (impacto)'
+    Nro de parte: 'PT-318'
+    Nro de Serie: 'SR-10132'
+    }
+    {
+    Descripción: 'Alicate de presión'
+    Nro de parte: 'PT-064'
+    Nro de Serie: 'SR-01064'
+    }
+    {
+    Descripción: “Alicate”
+    Nro de parte: “AL-001”
+    Nro de Serie: “ALA23B009”
+    Técnico actual: “”
+    }
+    {
+    Descripción: 'Alicate universal'
+    Nro de parte: 'PT-065'
+    Nro de Serie: 'SR-01065'
+    }
+    {
+    Descripción: 'Pinza'
+    Nro de parte: 'PT-066'
+    Nro de Serie: 'SR-01066'
+    }
+    {
+    Descripción: 'Alicate de corte'
+    Nro de parte: 'PT-067'
+    Nro de Serie: 'SR-01067'
+    }
+    {
+    Descripción: 'Pinza para seguro'
+    Nro de parte: 'PT-068'
+    Nro de Serie: 'SR-01068'
+    }
+    {
+    Descripción: 'Martillo de goma 720g'
+    Nro de parte: 'PT-069'
+    Nro de Serie: 'SR-01069'
+    }
+    {
+    Descripción': 'Martillo de bola 1.5 lbs'
+    Nro de parte: 'PT-070'
+    Nro de Serie: 'SR-01070'
+    }
+    {
+    Descripción: 'Comba 1Kg'
+    Nro de parte: 'PT-071'
+    Nro de Serie: 'SR-01071'
+    }
+    {
+    Descripción: “Desarmador estrella 1/4x10”
+    Nro de parte: 'PT-072'
+    Nro de Serie: 'SR-01072'
+    }
+    {
+    Descripción: 'Desarmador estrella 1/4x8'
+    Nro de parte: 'PT-073'
+    Nro de Serie: 'SR-01073'
+    }
+    {
+    Descripción: 'Desarmador estrella 1/4x62”'
+    Nro de parte: 'PT-074'
+    Nro de Serie: 'SR-01074'
+    }
+    {
+    Descripción: 'Desarmador estrella 1/4x5"'
+    Nro de parte: 'PT-075'
+    Nro de Serie: 'SR-01075'
+    }
+    {
+    Descripción: 'Desarmador estrella 1/4x 4"'
+    Nro de parte: 'PT-076'
+    Nro de Serie: 'SR-01076'
+    }
+    {
+    Descripción: 'Desarmador estrella 5/16x6"'
+    Nro de parte: 'PT-077'
+    Nro de Serie: 'SR-01077'
+    }
+    {
+    Descripción: 'Desarmador estrella 1/4x1.1/2"'
+    Nro de parte: 'PT-078'
+    Nro de Serie: 'SR-01078'
+    }
+    {
+    Descripción: 'Desarmador estrella 3/16x8"'
+    Nro de parte: 'PT-079'
+    Nro de Serie: 'SR-01079'
+    }
+    {
+    Descripción: 'Desarmador estrella 3/16x6"'
+    Nro de parte: 'PT-080'
+    Nro de Serie: 'SR-01080'
+    }
+    {
+    Descripción: 'Desarmador estrella 3/16x4"'
+    Nro de parte: 'PT-081'
+    Nro de Serie: 'SR-01081'
+    }
+    {
+    Descripción: 'Desarmador estrella 3/16x3"'
+    Nro de parte: 'PT-082'
+    Nro de Serie: 'SR-01082'
+    }
+    {
+    Descripción: 'Destornillador de golpe Punta Plana 3/8" x 10"'
+    Nro de parte: 'DGPP-010-004'
+    Nro de Serie: 'DGPP23B012'
+    }
+    {
+    Descripción: 'Desarmador estrella 3/16x12"'
+    Nro de parte: 'PT-083'
+    Nro de Serie: 'SR-01083'
+    }
+    {
+    Descripción: 'Desarmador plano 1/4x8"'
+    Nro de parte: 'PT-084'
+    Nro de Serie: 'SR-01084'
+    } 
+    {
+    Descripción: 'Desarmador plano 1/4x6"'
+    Nro de parte: 'PT-085'
+    Nro de Serie: 'SR-01085'
+    }
+    {
+    Descripción: 'Desarmador plano 1/4x 5"'
+    Nro de parte: 'PT-086'
+    Nro de Serie: 'SR-01086'
+    }
+    {
+    Descripción: 'Desarmador plano 1/4x4"'
+    Nro de parte: 'PT-087'
+    Nro de Serie: 'SR-01087'
+    }
+    {
+    Descripción: 'Desarmador plano 5/16x10"'
+    Nro de parte: 'PT-088'
+    Nro de Serie: 'SR-01088'
+    }
+    {
+    Descripción: 'Desarmador plano 3/16x6"'
+    Nro de parte: 'PT-089'
+    Nro de Serie: 'SR-01089'
+    }
+    {
+    Descripción: 'Desarmador plano 3/16x4"'
+    Nro de parte: 'PT-090'
+    Nro de Serie: 'SR-01090'
+    }
+    {
+    Descripción: 'Desarmador plano 3/16x3"'
+    Nro de parte: 'PT-091'
+    Nro de Serie: 'SR-01091'
+    }
+    {
+    Descripción: 'Destornillador Rachet'
+    Nro de parte: 'PT-092'
+    Nro de Serie: 'SR-01092'
+    }
+    {
+    Descripción: 'Destornilladores de golpe'
+    Nro de parte: 'PT-093'
+    Nro de Serie: 'SR-01093'
+    }
+    {
+    Descripción: 'Torquímetro 250lbs'
+    Nro de parte: 'PT-094'
+    Nro de Serie: 'SR-01094'
+    }
+    {
+    Descripción: 'Botadores'
+    Nro de parte: 'PT-095'
+    Nro de Serie: 'SR-01095'
+    }
+    {
+    Descripción: 'Cinceles'
+    Nro de parte: 'PT-096'
+    Nro de Serie: 'SR-01096'
+    }
+    {
+    Descripción: 'Juego de llaves Allen'
+    Nro de parte: 'PT-097
+    Nro de Serie: 'SR-01097'
+    }
+    {
+    Descripción: 'Juego de llaves Torx'
+    Nro de parte: 'PT-098'
+    Nro de Serie: 'SR-01098'
+    }
+    {
+    Descripción: 'Gauge 0 - 1000 PSI'
+    Nro de parte: 'PT-099'
+    Nro de Serie: 'SR-01099'
+    }
+    {
+    Descripción: 'Vernier 150mm/6"'
+    Nro de parte: 'PT-100'
+    Nro de Serie: 'SR-01100'
+    }
+    {
+    Descripción: 'Cinta métrica 8m/6"'
+    Nro de parte: 'PT-101'
+    Nro de Serie: 'SR-01101'
+    }
+    {
+    Descripción: 'Escobilla de fierro'
+    Nro de parte: 'PT-102'
+    Nro de Serie: 'SR-01102'
+    }
+    {
+    Descripción: 'Espátula'
+    Nro de parte: 'PT-103'
+    Nro de Serie: 'SR-01103'
+    }
+    {
+    Descripción: 'Llave francesa 15"'
+    Nro de parte: 'PT-104'
+    Nro de Serie: 'SR-01104'
+    }
+    {
+    Descripción: 'Llave estilson 24"'
+    Nro de parte: 'PT-105'
+    Nro de Serie: 'SR-01105'
+    }
+    {
+    Descripción: 'Multímetro digital'
+    Nro de parte: 'PT-106'
+    Nro de Serie: 'SR-01106'
+    }
+    {
+    Descripción: 'Punta lógica 6-12 voltios'
+    Nro de parte: 'PT-107'
+    Nro de Serie: 'SR-01107'
+    }
+    {
+    Descripción: 'Pinza amperimétrica digital'
+    Nro de parte: 'PT-108'
+    Nro de Serie: 'SR-01108'
+    }
+    {
+    Descripción: 'Cargador de batería 12V, 24V, 95Ah'
+    Nro de parte: 'PT-109'
+    Nro de Serie: 'SR-01109'
+    }
+    {
+    Descripción: 'Cocodrilos 1000AMP'
+    Nro de parte: 'PT-110'
+    Nro de Serie: 'SR-01110'
+    }
+    {
+    Descripción: 'Llave cadena'
+    Nro de parte: 'PT-111'
+    Nro de Serie: 'SR-01111'
+    }
+    {
+    Descripción: Tetragate 14.5-5800 psi'
+    Nro de parte: 'PT-112'
+    Nro de Serie: 'SR-01112'
+    }
+    {
+    Descripción: 'Llave articulada'
+    Nro de parte: 'PT-113'
+    Nro de Serie: 'SR-01113'
+    }
+    {
+    Descripción: 'Saca filtro 3 1/2"'
+    Nro de parte: 'PT-114'
+    Nro de Serie: 'SR-01114'
+    }
+    {
+    Descripción: 'Llave saca filtro 255 mm'
+    Nro de parte: 'PT-115'
+    Nro de Serie: 'SR-01115'
+    }
+    {
+    Descripción: 'Llave bujías'
+    Nro de parte: 'PT-116'
+    Nro de Serie: 'SR-01116'
+    }
+    {
+    Descripción: 'Máquina de soldar 280 amp'
+    Nro de parte: 'PT-117'
+    Nro de Serie: 'SR-01117'
+    }
+    {
+    Descripción: 'Esmeril 700-710W'
+    Nro de parte: 'PT-118'
+    Nro de Serie: 'SR-01118'
+    }
+    {
+    Descripción: 'Compresora 2HP/25L'
+    Nro de parte: 'PT-119'
+    Nro de Serie: 'SR-01119'
+    }
+    {
+    Descripción: 'Tornillo de banco'
+    Nro de parte: 'PT-120'
+    Nro de Serie: 'SR-01120'
+    }
+    {
+    Descripción: 'Extractor de rodamientos'
+    Nro de parte: 'PT-121'
+    Nro de Serie: 'SR-01121'
+    }
+    {
+    Descripción: 'Taladro inalámbrico 18V 1/2"'
+    Nro de parte: 'PT-122'
+    Nro de Serie': 'SR-01122'
+    }
+    {
+    Descripción': 'Pistola neumática 1/2"'
+    Nro de parte: 'PT-123'
+    Nro de Serie: 'SR-01123'
+    }
+    {
+    Descripción: “Rachet 1/2"”,
+    Nro de parte: “PT-124”,
+    Nro de Serie: “SR-01124”,
+    },
+    {
+    Descripción: “Extensiones de corriente”
+    Nro de parte: “PT-125”
+    Nro de Serie: “SR-01125”
+    },
+    {
+    Descripción: “Esmeril de banco”,
+    Nro de parte: “PT-126”,
+    Nro de Serie: “SR-01126”,
+    },
+    {
+    Descripción: “Bandeja”,
+    Nro de parte: “BD-016”,
+    Nro de Serie: “BDA23B024”,
+    },
+    
+    
