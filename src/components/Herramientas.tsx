@@ -1,16 +1,16 @@
 import { Table, TableBody, TableCell, TableHead, TableRow } from "./ui/table";
 import useDetalleStore from "../store/detalle";
-import { OctagonMinus } from "lucide-react";
+// import { OctagonMinus } from "lucide-react";
 import { useEffect } from "react";
 
 function Herramientas() {
   const { herramientas, setHerramientas } = useDetalleStore();
   const herramientasFromLocalStorage = localStorage.getItem("herramientas");
 
-  function handleDeleteHerramienta(descripcion: string) {
-    const herramientaEliminada = herramientas.filter((herramienta) => herramienta.descripcion !== descripcion);
-    setHerramientas(herramientaEliminada);
-  }
+  // function handleDeleteHerramienta(descripcion: string) {
+  //   const herramientaEliminada = herramientas.filter((herramienta) => herramienta.descripcion !== descripcion);
+  //   setHerramientas(herramientaEliminada);
+  // }
 
   useEffect(() => {
     if (herramientasFromLocalStorage) {

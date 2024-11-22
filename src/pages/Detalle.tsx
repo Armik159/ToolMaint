@@ -8,7 +8,7 @@ import Historial from "../components/Historial";
 import Herramientas from "../components/Herramientas";
 import { ModalAgregarHerramienta } from "../components/ModalAgregarHerramienta";
 import { Dialog, DialogTrigger } from "../components/ui/dialog";
-import ModalConfirmarAsignar from "../components/ModalConfirmarAsignar";
+// import ModalConfirmarAsignar from "../components/ModalConfirmarAsignar";
 
 function Detalle() {
   const detalleFromLocalStorage = localStorage.getItem("detalle");
@@ -133,7 +133,7 @@ function Detalle() {
           <DialogTrigger asChild>
             <button className="bg-slate-700 px-4 py-2 text-white">Asignar Herramientas</button>
           </DialogTrigger>
-          <ModalConfirmarAsignar setIsModalOpen={setIsModalAsignarOpen} />
+          {/* <ModalConfirmarAsignar setIsModalOpen={setIsModalAsignarOpen} /> */}
         </Dialog>
       </div>
     </div>
