@@ -12,12 +12,13 @@ import ModalRevisarHerramientas from "./ModalRevisarHerramientas";
 
 export interface Props {
   setIsModalOpen: (isModalOpen: boolean) => void;
+  herramientasParaAñadir: IHerramienta[];
+  setHerramientasParaAñadir: (herramientas: IHerramienta[]) => void;
 }
 
-export function ModalAgregarHerramienta({ setIsModalOpen }: Props) {
+export function ModalAgregarHerramienta({ setIsModalOpen, herramientasParaAñadir, setHerramientasParaAñadir }: Props) {
   const [palabraBuscada, setPalabraBuscada] = useState<string>("");
   const [resultados, setResultados] = useState<IHerramienta[]>(TodasLasHerramientas);
-  const [herramientasParaAñadir, setHerramientasParaAñadir] = useState<IHerramienta[]>([]);
 
   const { herramientas, setHerramientas } = useDetalleStore();
 
@@ -46,10 +47,7 @@ export function ModalAgregarHerramienta({ setIsModalOpen }: Props) {
       //que se agreguen con la prop isAgregado en true
       const herramientaAñadida = TodasLasHerramientas.find((herramienta) => herramienta.descripcion === descripcion);
       if (herramientaAñadida) {
-        setHerramientasParaAñadir([
-          ...herramientasParaAñadir,
-          { ...herramientaAñadida, isAgregado: true, tecnicoActual: "Armik Quevedo Suarez" },
-        ]);
+        setHerramientasParaAñadir([...herramientasParaAñadir, { ...herramientaAñadida, isAgregado: true }]);
       }
     } else {
       const herramientaEliminada = herramientasParaAñadir.filter((herramienta) => herramienta.descripcion !== descripcion);
@@ -60,7 +58,7 @@ export function ModalAgregarHerramienta({ setIsModalOpen }: Props) {
   function handleAgregarHeramientas() {
     const herramientasAñadidas = [...herramientas, ...herramientasParaAñadir];
     setHerramientas(herramientasAñadidas);
-    setHerramientasParaAñadir([]);
+    // setHerramientasParaAñadir([]);
     setIsModalOpen(false);
   }
 

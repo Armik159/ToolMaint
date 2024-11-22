@@ -8,7 +8,8 @@ import Historial from "../components/Historial";
 import Herramientas from "../components/Herramientas";
 import { ModalAgregarHerramienta } from "../components/ModalAgregarHerramienta";
 import { Dialog, DialogTrigger } from "../components/ui/dialog";
-// import ModalConfirmarAsignar from "../components/ModalConfirmarAsignar";
+import ModalConfirmarAsignar from "../components/ModalConfirmarAsignar";
+import { IHerramienta } from "../interfaces/IHerramienta";
 
 function Detalle() {
   const detalleFromLocalStorage = localStorage.getItem("detalle");
@@ -16,8 +17,11 @@ function Detalle() {
   const { detalle, setDetalle } = useDetalleStore();
   const { maquina } = bloqueTrabajoStore();
 
+  const { herramientas } = useDetalleStore();
+
   const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
   const [isModalAsignarOpen, setIsModalAsignarOpen] = useState<boolean>(false);
+  const [herramientasParaAñadir, setHerramientasParaAñadir] = useState<IHerramienta[]>([]);
 
   useEffect(() => {
     if (detalleFromLocalStorage) {
@@ -112,7 +116,11 @@ function Detalle() {
               <DialogTrigger asChild>
                 <Button className="w-max bg-slate-800 text-white hover:bg-slate-900">Pedir Herramienta</Button>
               </DialogTrigger>
-              <ModalAgregarHerramienta setIsModalOpen={setIsModalOpen} />
+              <ModalAgregarHerramienta
+                setIsModalOpen={setIsModalOpen}
+                herramientasParaAñadir={herramientasParaAñadir}
+                setHerramientasParaAñadir={setHerramientasParaAñadir}
+              />
             </Dialog>
           </div>
           <CardContent className="py-4 px-2">
@@ -133,7 +141,11 @@ function Detalle() {
           <DialogTrigger asChild>
             <button className="bg-slate-700 px-4 py-2 text-white">Asignar Herramientas</button>
           </DialogTrigger>
-          {/* <ModalConfirmarAsignar setIsModalOpen={setIsModalAsignarOpen} /> */}
+          <ModalConfirmarAsignar
+            setIsModalOpen={setIsModalAsignarOpen}
+            herramientasParaAñadir={herramientasParaAñadir}
+            herramientasRequeridas={herramientas}
+          />
         </Dialog>
       </div>
     </div>
