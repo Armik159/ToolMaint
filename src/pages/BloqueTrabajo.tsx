@@ -7,6 +7,7 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbS
 import { IDetalle } from "../interfaces/IDetalle";
 import useDetalleStore from "../store/detalle";
 import herramientas from "../constants/herramientas";
+import { useNavigate } from "react-router-dom";
 
 function BloqueTrabajo() {
   const { maquina, setMaquina } = bloqueTrabajoStore();
@@ -14,6 +15,7 @@ function BloqueTrabajo() {
   const { setHerramientas } = useDetalleStore();
 
   const isMaquinaFromStorage = localStorage.getItem("maquina");
+  const navigate = useNavigate();
 
   useEffect(() => {
     if (isMaquinaFromStorage) {
@@ -27,9 +29,9 @@ function BloqueTrabajo() {
   function handleClick(detalle: IDetalle) {
     setDetalle(detalle);
     localStorage.setItem("detalle", JSON.stringify(detalle));
-    window.location.href = "/detalle";
     setHerramientas(herramientas[detalle.taskID].herramientas);
     localStorage.setItem("herramientas", JSON.stringify(herramientas[detalle.taskID].herramientas));
+    navigate("/detalle");
   }
 
   return (
