@@ -46,7 +46,10 @@ export function ModalAgregarHerramienta({ setIsModalOpen }: Props) {
       //que se agreguen con la prop isAgregado en true
       const herramientaAñadida = TodasLasHerramientas.find((herramienta) => herramienta.descripcion === descripcion);
       if (herramientaAñadida) {
-        setHerramientasParaAñadir([...herramientasParaAñadir, { ...herramientaAñadida, isAgregado: true }]);
+        setHerramientasParaAñadir([
+          ...herramientasParaAñadir,
+          { ...herramientaAñadida, isAgregado: true, tecnicoActual: "Armik Quevedo Suarez" },
+        ]);
       }
     } else {
       const herramientaEliminada = herramientasParaAñadir.filter((herramienta) => herramienta.descripcion !== descripcion);

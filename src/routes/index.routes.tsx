@@ -4,6 +4,7 @@ import ProtectedRoute from "../components/ProtectedRoute";
 import Home from "../pages/Home";
 import BloqueTrabajo from "../pages/BloqueTrabajo";
 import Detalle from "../pages/Detalle";
+import HerramientasAsignadas from "../pages/HerramientasAsignadas";
 
 const routes = createBrowserRouter(
   [
@@ -32,6 +33,14 @@ const routes = createBrowserRouter(
       element: (
         <ProtectedRoute>
           <Detalle />
+        </ProtectedRoute>
+      ),
+    },
+    {
+      path: "/herramientasAsignadas",
+      element: (
+        <ProtectedRoute>
+          <HerramientasAsignadas />
         </ProtectedRoute>
       ),
     },

@@ -26,26 +26,16 @@ function Herramientas() {
         <TableHead>Nro de parte</TableHead>
         <TableHead>Nro de serie</TableHead>
         <TableHead>Técnico actual</TableHead>
+        <TableHead>Stock</TableHead>
       </TableRow>
       <TableBody className="border">
         {herramientas.map((herramienta, index) => (
           <TableRow key={index}>
-            <TableCell>
-              <div className="flex gap-2 items-center">
-                {herramienta.isAgregado && (
-                  <span>
-                    <OctagonMinus
-                      className="bg-red-500 py-1 text-white rounded-xl cursor-pointer"
-                      onClick={() => handleDeleteHerramienta(herramienta.descripcion)}
-                    />
-                  </span>
-                )}
-                {herramienta.descripcion}
-              </div>
-            </TableCell>
+            <TableCell>{herramienta.descripcion}</TableCell>
             <TableCell>{herramienta.nroParte}</TableCell>
             <TableCell>{herramienta.nroSerie}</TableCell>
             <TableCell>{herramienta.tecnicoActual}</TableCell>
+            <TableCell>{herramienta.disponible}</TableCell>
           </TableRow>
         ))}
         {herramientas.length === 0 && (
