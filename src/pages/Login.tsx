@@ -29,7 +29,7 @@ function Login() {
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <Card className="w-full max-w-md p-8 space-y-6 bg-white rounded shadow-md">
         <CardHeader>
-          <h1 className="scroll-m-20 text-4xl font-extrabold lg:text-4xl text-center mb-4">Acceso</h1>
+          <h1 className="scroll-m-20 text-4xl font-extrabold lg:text-4xl text-center mb-4">ToolMaint</h1>
           <p className="text-sm text-slate-500 text-center">Ingresa tus credenciales para poder acceder</p>
         </CardHeader>
         <CardContent>
